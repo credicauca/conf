@@ -11340,7 +11340,7 @@ p {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #1c0000ba;
+  background-color: #6a0a03;
   transition: background-color 0.2s ease;
 }
 
@@ -11410,7 +11410,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #1c0000;
+  color: #6a0a03;
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
