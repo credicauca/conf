@@ -11340,7 +11340,7 @@ p {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #fff;
+  background-color: #1c0000ba;
   transition: background-color 0.2s ease;
 }
 
