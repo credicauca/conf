@@ -1,2 +1,2 @@
-# conf
-https://credicauca.github.io/conf/
+# link
+https://credicauca.github.io/
